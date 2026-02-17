@@ -16,5 +16,5 @@ We are currently in the high-level design phase.
 - **Target Launch:** Within 1 year
 
 ## Contact / Leads
-* **@smehars**: Mehar Saini- Co-lead
-* **@Highfire1**: Anderson Tseng - Co-lead
+* @smehars: Mehar Saini- Co-lead
+* @Highfire1: Anderson Tseng - Co-lead
