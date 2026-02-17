@@ -1,6 +1,6 @@
 # Software Systems Student Society (SSSS) Events Portal
 
-**[ Architecture ](./ARCHITECTURE.md)** | **[ Contributing Information ](./CONTRIBUTING.md)**
+**[ Architecture ](./ARCHITECTURE.md)**
 
 Welcome to the **Events Portal** repository, a sub-project maintained by the SSSS Website Committee.
 
