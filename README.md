@@ -14,7 +14,7 @@ The Events Portal will be a centralized platform designed to streamline how our 
 ## Tech Stack
 > **Status: To be determined.** > We will be discussing our preferred languages and frameworks during our upcoming committee meetings.
 
-## 💬 Join the Committee
+## Join the Committee
 To join the project:
 1. Join the **SSSS Discord server**.
 2. Find the `#what-are-committees` channel.
